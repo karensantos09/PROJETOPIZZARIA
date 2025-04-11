@@ -30,4 +30,20 @@ Este projeto foi desenvolvido com foco em:
 - Layout responsivo com media queries
 
 
+---para diferentes tamanhos de tela
+- Organização visual e intuitiva para o usuário
+
+
+---
+
+
+## 🛠️ Tecnologias Utilizadas
+
+
+- HTML5
+- CSS3
+- [Google Fonts](https://fonts.google.com/) (para estilização de texto)
+- Layout responsivo com media queries
+
+
 ---
